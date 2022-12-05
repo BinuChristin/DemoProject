@@ -3,6 +3,6 @@ package com.faith.bean;
 public class Employee {
 	
 	private int name;
-	private String anumber;
+	private String praveena;
 
 }
